@@ -38,9 +38,27 @@ else
 fi
 
 # 4. Python 의존성
-echo "[4/4] Python 의존성 확인..."
+echo "[4/5] Python 의존성 확인..."
 pip install python-hwpx lxml python-docx 2>/dev/null && echo "  -> 의존성 설치 완료" || echo "  ⚠ pip install 실패 — 수동 설치 필요: pip install python-hwpx lxml python-docx"
+
+# 5. NotebookLM 헬퍼 설치
+echo "[5/5] NotebookLM 헬퍼..."
+NLM_DIR="$HOME/notebooklm-server"
+mkdir -p "$NLM_DIR"
+cp "$SCRIPT_DIR/notebooklm-server/nlm_helper.py" "$NLM_DIR/"
+chmod +x "$NLM_DIR/nlm_helper.py"
+if [ ! -d "$NLM_DIR/venv" ]; then
+    echo "  venv 생성 + notebooklm-mcp-cli 설치..."
+    python3 -m venv "$NLM_DIR/venv" 2>/dev/null && \
+    "$NLM_DIR/venv/bin/pip" install -q notebooklm-mcp-cli 2>/dev/null && \
+    echo "  -> 설치 완료" || \
+    echo "  ⚠ 자동 설치 실패 — 수동 실행: cd ~/notebooklm-server && bash setup.sh"
+else
+    echo "  -> venv 이미 존재, nlm_helper.py만 갱신"
+fi
 
 echo ""
 echo "=== 설치 완료 ==="
 echo "Claude Code에서 /hwpx, /cbci-unit-design, /rjcbci 등 사용 가능"
+echo ""
+echo "[선택] NotebookLM 로그인: ~/notebooklm-server/venv/bin/nlm login"
