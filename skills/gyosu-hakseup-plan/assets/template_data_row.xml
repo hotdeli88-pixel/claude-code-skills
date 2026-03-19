@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hp:tr xmlns:hp="http://www.hancom.co.kr/hwpml/2011/paragraph" xmlns:ha="http://www.hancom.co.kr/hwpml/2011/app" xmlns:hp10="http://www.hancom.co.kr/hwpml/2016/paragraph" xmlns:hs="http://www.hancom.co.kr/hwpml/2011/section" xmlns:hc="http://www.hancom.co.kr/hwpml/2011/core" xmlns:hh="http://www.hancom.co.kr/hwpml/2011/head" xmlns:hhs="http://www.hancom.co.kr/hwpml/2011/history" xmlns:hm="http://www.hancom.co.kr/hwpml/2011/master-page" xmlns:hpf="http://www.hancom.co.kr/schema/2011/hpf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf/" xmlns:ooxmlchart="http://www.hancom.co.kr/hwpml/2016/ooxmlchart" xmlns:hwpunitchar="http://www.hancom.co.kr/hwpml/2016/HwpUnitChar" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0">
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="1440" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="2880" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147">
+          <hp:t> 3월</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="4320" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147">
+          <hp:t>1주</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="5760" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="7200" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="8640" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="1" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="147"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="10080" vertsize="900" textheight="900" baseline="765" spacing="540" horzpos="0" horzsize="4460" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="0" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="4742" height="566"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="55" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="108">
+          <hp:t>4</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="3328" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="1" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="3613" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="55" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="108">
+          <hp:t>4</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="3332" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="2" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="3614" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="55" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="104">
+          <hp:t>1.함께 소통하는 기쁨</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="6840" flags="393216"/>
+          <hp:lineseg textpos="10" vertpos="992" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="6840" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="55" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="104"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="1984" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="6840" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="55" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="104">
+          <hp:t>(1) 문학으로 소통하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="2976" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="6840" flags="393216"/>
+          <hp:lineseg textpos="9" vertpos="3968" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="6840" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="3" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="7122" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="82" styleIDRef="41" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="104">
+          <hp:t>[10공국1-05-01]</hp:t>
+        </hp:run>
+        <hp:run charPrIDRef="109">
+          <hp:t>(1차 정기시험)</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="14096" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="82" styleIDRef="41" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="104">
+          <hp:t>문학 소통의 특성을 고려하며 문학 소통에 참여한다.</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="992" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="14096" flags="393216"/>
+          <hp:lineseg textpos="19" vertpos="1984" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="14096" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="4" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="14380" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="3093796216" paraPrIDRef="83" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="148">
+          <hp:t>문학의 다양한 맥락 이해하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="12068" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="83" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="148">
+          <hp:t>주체적인 관점에서 작품 해석하고 평가하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="992" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="12068" flags="2490368"/>
+          <hp:lineseg textpos="15" vertpos="1984" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="12068" flags="1441792"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="83" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="148">
+          <hp:t>주체적으로 문학작품 수용하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="2976" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="12068" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="5" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="12350" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="89" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>[모둠활동]</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="88" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>작가, 독자, 사회 문화적 맥락의 개념 이해하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="1124" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="88" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>다양한 맥락에 비추어 작품 감상하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="2248" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="88" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>모둠 대화, 전체 공유를 통해 작품 감상 나누기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="3372" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="88" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>작품의 평가 기준을 만들고, 이를 바탕으로 작품 평가하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="4496" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="88" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>자신의 관점에서 작품을 주체적으로 해석하고 비평하기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="5620" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="2490368"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="90" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>- 교사 관찰 평가를 통해 학생 활동을 피드백한다.</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="6744" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="90" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="149">
+          <hp:t>- </hp:t>
+        </hp:run>
+        <hp:run charPrIDRef="150">
+          <hp:t>다양한 맥락을 고려하여 능동적으로 작품을 수용할 수 있도록 한다.</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="7868" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="91" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="150">
+          <hp:t>- 능동적 감상을 통해 주체적으로 문학 소통에 참여할 수 있도록 한다.</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="8992" vertsize="900" textheight="900" baseline="765" spacing="224" horzpos="0" horzsize="21972" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="6" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="22255" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="0" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="4">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="84" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="108"/>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="92" horzpos="0" horzsize="4048" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="7" rowAddr="1"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="4331" height="11546"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+</hp:tr>

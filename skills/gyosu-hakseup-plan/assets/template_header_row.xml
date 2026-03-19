@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hp:tr xmlns:hp="http://www.hancom.co.kr/hwpml/2011/paragraph" xmlns:ha="http://www.hancom.co.kr/hwpml/2011/app" xmlns:hp10="http://www.hancom.co.kr/hwpml/2016/paragraph" xmlns:hs="http://www.hancom.co.kr/hwpml/2011/section" xmlns:hc="http://www.hancom.co.kr/hwpml/2011/core" xmlns:hh="http://www.hancom.co.kr/hwpml/2011/head" xmlns:hhs="http://www.hancom.co.kr/hwpml/2011/history" xmlns:hm="http://www.hancom.co.kr/hwpml/2011/master-page" xmlns:hpf="http://www.hancom.co.kr/schema/2011/hpf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf/" xmlns:ooxmlchart="http://www.hancom.co.kr/hwpml/2016/ooxmlchart" xmlns:hwpunitchar="http://www.hancom.co.kr/hwpml/2016/HwpUnitChar" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0">
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="28" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>시기</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="-100" horzsize="4560" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="0" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="4742" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>시수</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="3328" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="1" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="3613" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>누계</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="3332" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="2" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="3614" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>단원명</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="6840" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="3" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="7122" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>교육과정 성취기준</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="14096" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="4" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="14380" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>평가 요소</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="12068" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="5" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="12350" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>수업·평가 방법,</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="21972" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:t>수업-평가 연계의 주안점</hp:t>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="1172" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="21972" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="6" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="22255" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+  <hp:tc name="" header="1" hasMargin="0" protect="0" editable="0" dirty="0" borderFillIDRef="55">
+    <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="CENTER" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+      <hp:p id="2147483648" paraPrIDRef="25" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+        <hp:run charPrIDRef="24">
+          <hp:ctrl>
+            <hp:fieldBegin id="2077863819" type="MEMO" name="" editable="1" dirty="1" zorder="9" fieldid="623209829" metaTag="">
+              <hp:parameters cnt="7" name="">
+                <hp:integerParam name="Prop">0</hp:integerParam>
+                <hp:stringParam name="Command">MEMO/65535/9/2973753568/31233792/user/\;;</hp:stringParam>
+                <hp:stringParam name="ID">memo9</hp:stringParam>
+                <hp:integerParam name="Number">9</hp:integerParam>
+                <hp:stringParam name="Author">user</hp:stringParam>
+                <hp:stringParam name="MemoShapeIDRef">65535</hp:stringParam>
+                <hp:stringParam name="CreateDateTime">2026-02-06T09:36:54Z</hp:stringParam>
+              </hp:parameters>
+              <hp:subList id="" textDirection="HORIZONTAL" lineWrap="BREAK" vertAlign="TOP" linkListIDRef="0" linkListNextIDRef="0" textWidth="0" textHeight="0" hasTextRef="0" hasNumRef="0">
+                <hp:p id="0" paraPrIDRef="58" styleIDRef="0" pageBreak="0" columnBreak="0" merged="0">
+                  <hp:run charPrIDRef="187">
+                    <hp:t>학생안전교육계획 및 범교과, 계기교육 등 명시</hp:t>
+                  </hp:run>
+                </hp:p>
+              </hp:subList>
+            </hp:fieldBegin>
+          </hp:ctrl>
+          <hp:t>비고</hp:t>
+          <hp:ctrl>
+            <hp:fieldEnd beginIDRef="2077863819" fieldid="623209829"/>
+          </hp:ctrl>
+          <hp:t/>
+        </hp:run>
+        <hp:linesegarray>
+          <hp:lineseg textpos="0" vertpos="0" vertsize="900" textheight="900" baseline="765" spacing="272" horzpos="0" horzsize="4048" flags="393216"/>
+        </hp:linesegarray>
+      </hp:p>
+    </hp:subList>
+    <hp:cellAddr colAddr="7" rowAddr="0"/>
+    <hp:cellSpan colSpan="1" rowSpan="1"/>
+    <hp:cellSz width="4331" height="3034"/>
+    <hp:cellMargin left="510" right="510" top="141" bottom="141"/>
+  </hp:tc>
+</hp:tr>

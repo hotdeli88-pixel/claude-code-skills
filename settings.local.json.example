@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nul)",
+      "Bash(dir:*)",
+      "Bash(cat:*)",
+      "Bash(python test_equation.py:*)",
+      "Bash(pip install:*)",
+      "Bash(python -m win32com.client.makepy:*)",
+      "Bash(findstr:*)",
+      "Bash(python test_validation.py:*)",
+      "mcp__edu-generator__full_workflow",
+      "Bash(python organize_remaining.py:*)",
+      "Bash(done)",
+      "WebFetch(domain:docs.google.com)",
+      "WebSearch",
+      "WebFetch(domain:superkts.com)",
+      "WebFetch(domain:time.is)",
+      "WebFetch(domain:doc-0g-0s-sheets.googleusercontent.com)",
+      "Bash(curl:*)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "edu-generator"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1",
+    "CLAUDE_CODE_TEAMMATE_MODE": "tmux"
+  },
+  "extraKnownMarketplaces": {
+    "awesome-claude-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "awesomejun/awesome-claude-plugins"
+      }
+    }
+  },
+  "alwaysThinkingEnabled": true,
+  "skipDangerousModePermissionPrompt": true,
+  "enabledPlugins": {
+    "awesome-statusline@awesome-claude-plugins": true
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/awesome-statusline.sh"
+  }
+}
